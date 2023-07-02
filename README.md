@@ -25,7 +25,7 @@ Don't allow the captivating allure of YouTube's recommended content to derail yo
 =>Click on "manage extensions"\
 =>Click on "Developer Mode"\
 =>Select "Load unpacked"\
-=>Select the download code folder\
-=>Turn on the extension\
+=>Select the downloaded code folder\
+=>Turn on the extension
 
 <strong>Hooray! 💥 Make the most of your time on Youtube by using it in a productive manner.</strong>
