@@ -1,5 +1,6 @@
-#<strong>Youtube Focus</strong>
-
+![128](https://github.com/PowerShell/PowerShell/assets/76679000/b8505a70-894a-45cb-9695-b860b17eab67)\
+#<strong>Youtube Focus</strong>\
+<br/>
 <strong>Youtube Focus</strong> a revolutionary tool designed to enhance your focus and minimize distractions: the "<strong>Youtube Focus</strong>" extension. With this powerful tool, you can bid farewell to the tempting vortex of recommended YouTube homepage content, alluring thumbnails, and time-wasting distractions. Prepare to experience a neatly organized browsing experience, guided by purpose and efficiency.
 
 By activating the "<strong>Youtube Focus</strong>" extension, you gain an incredible advantage in maintaining your concentration and avoiding the all-too-enticing traps of YouTube's recommended videos. No longer will your attention be hijacked by flashy thumbnails vying for your clicks. Instead, you'll find a clean and clutter-free interface, allowing you to focus solely on the content you seek.
