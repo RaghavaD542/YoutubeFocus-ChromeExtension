@@ -1,5 +1,6 @@
 ![128](https://github.com/PowerShell/PowerShell/assets/76679000/b8505a70-894a-45cb-9695-b860b17eab67)\
 #<strong>Youtube Focus</strong>\
+This extension has been published 🎉 live link : https://chrome.google.com/webstore/search/youtube%20focus%20raghavadonthoju
 <br/>
 <strong>Youtube Focus</strong> is a revolutionary tool designed to enhance your focus and minimize distractions. With this powerful tool, you can bid farewell to the tempting vortex of recommended YouTube homepage content, alluring thumbnails, and time-wasting distractions. Prepare to experience a neatly organized browsing experience, guided by purpose and efficiency.
 
